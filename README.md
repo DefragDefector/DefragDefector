@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @DefragDefector
 - 🌱 I’m currently learning:
-   >C/C++
-   >SQL
+   >C/C++,
+   >SQL,
    >Chinese 
 - 📫 How to reach me:
-   > School Email: robin51@wwu.edu
+   > School Email: robin51@wwu.edu |
    > Email: jacobr1428@gmail.com
 
 <!---
