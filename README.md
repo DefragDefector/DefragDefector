@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning:
    >C/C++,
    >SQL,
-   >Chinese 
+   >Game Dev
 - 📫 How to reach me:
    > School Email: robin51@wwu.edu |
    > Email: jacobr1428@gmail.com
