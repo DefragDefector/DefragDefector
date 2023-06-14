@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @DefragDefector
-- 🌱 I’m currently learning:
-   >C/C++,
-   >Python
-   >SQL,
-- 📫 How to reach me:
-   > School Email: robin51@wwu.edu |
-   > Email: jacobr1428@gmail.com
+# Hello! My name is Jacob.
+### A little about me:
+I was originally born in Florida, but currently reside in the Pacific Northwest. I am an cybersecurity professional. I hold a B.S in cybersecurity from Western Washington University (NSA CAE-D Certified) and have a range of interests in the industry.
+
+I interned at Twilio in the summer of 2022, and worked as a operational resilience analyst. My work focused on control auditing, process workflow improvements, and secure software life cycle recommendations. Additionally, I have experience with PISCES as a network security analyst during my course work at WWU.
+
+I am open for work and prefer both in person or remote work opportunities.
 
 <!---
 DefragDefector/DefragDefector is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
