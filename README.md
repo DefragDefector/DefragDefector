@@ -7,8 +7,8 @@ I interned at Twilio in the summer of 2022, and worked as a operational resilien
 I am open for work and prefer both in person or remote work opportunities.
 
 ### What I have been up to Recently (Summer 2023):
--Job Hunting
--Reading:
+- Job Hunting
+- Reading:
   - Applied Cryptography - B. Schneier
   - The Narrow Road to the Depp North and Other Travel Sketches - M. Basho
   - Japanese Death Poems - Y. Hoffamnn
