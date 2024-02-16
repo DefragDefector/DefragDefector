@@ -18,7 +18,7 @@ I am open for work and prefer both in person or remote work opportunities.
   - Extreme Ownership - J. Willink, L. Babin
 - Projects:
   - NMAP Parser
-  - [Personal Blog ](https://jacrobin.github.io/)
+  - [Personal Blog ](https://jacrobin.github.io/home)
 
 <!---
 DefragDefector/DefragDefector is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
